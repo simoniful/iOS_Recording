@@ -7,7 +7,8 @@
 - [동시성](https://github.com/simoniful/iOSRecording/issues/4)
 - [Framework 구성](https://github.com/simoniful/iOSRecording/issues/5)
 - [iOS DB](https://github.com/simoniful/iOSRecording/issues/6)
-- [UIWindow, Responder Chain, UIApplication](https://github.com/simoniful/iOSRecording/issues/6)
+- [UIKit - UIWindow, Responder Chain, UIApplication](https://github.com/simoniful/iOSRecording/issues/7)
+- [UIKit - UIViewController, UIView, CALayer](https://github.com/simoniful/iOSRecording/issues/7)
 
 ## Swift
 
