@@ -10,7 +10,7 @@
 - [UIKit - UIWindow, Responder Chain, UIApplication](https://github.com/simoniful/iOSRecording/issues/7)
 - [UIKit - UIViewController, UIView, CALayer](https://github.com/simoniful/iOSRecording/issues/8)
 - [UIKit - CustomView 구현, View / Layout 업데이트 관련 메서드](https://github.com/simoniful/iOSRecording/issues/9)
-- [iOS Bundle & Package & Framework & Library](https://github.com/simoniful/iOSRecording/issues/10)
+- [iOS Bundle & Package & Framework & Library & Sandbox](https://github.com/simoniful/iOSRecording/issues/10)
 
 ## Swift
 
