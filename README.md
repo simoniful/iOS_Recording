@@ -22,5 +22,5 @@
 - [Network(4) - Network Layer](https://github.com/simoniful/iOSRecording/issues/14)
 
 ## Rx
-- [4Hours 끝내기 정리]()
-- [Hello RxSwift]() 
+- [4Hours 끝내기 정리](https://github.com/simoniful/iOS_Recording/issues/15)
+- [Hello RxSwift](https://github.com/simoniful/iOS_Recording/issues/16) 
