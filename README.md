@@ -26,4 +26,5 @@
 - [Hello RxSwift](https://github.com/simoniful/iOS_Recording/issues/16) 
 - [Observable](https://github.com/simoniful/iOS_Recording/issues/17) 
 - [Subject](https://github.com/simoniful/iOS_Recording/issues/18) 
-- [Filtering Operation](https://github.com/simoniful/iOS_Recording/issues/19)
+- [Filtering Operators](https://github.com/simoniful/iOS_Recording/issues/19)
+- [Transforming Operators](https://github.com/simoniful/iOS_Recording/issues/21)
