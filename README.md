@@ -28,3 +28,4 @@
 - [Subject](https://github.com/simoniful/iOS_Recording/issues/18) 
 - [Filtering Operators](https://github.com/simoniful/iOS_Recording/issues/19)
 - [Transforming Operators](https://github.com/simoniful/iOS_Recording/issues/21)
+- [Combining Operator](https://github.com/simoniful/iOS_Recording/issues/22)
