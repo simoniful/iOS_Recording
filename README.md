@@ -30,3 +30,4 @@
 - [Filtering Operators](https://github.com/simoniful/iOS_Recording/issues/19)
 - [Transforming Operators](https://github.com/simoniful/iOS_Recording/issues/21)
 - [Combining Operator](https://github.com/simoniful/iOS_Recording/issues/22)
+- [Timebased Operator](https://github.com/simoniful/iOS_Recording/issues/23)
