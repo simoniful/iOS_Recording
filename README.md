@@ -21,6 +21,7 @@
 - [Network(3) - Transport Layer](https://github.com/simoniful/iOSRecording/issues/13)
 - [Network(4) - Network Layer](https://github.com/simoniful/iOSRecording/issues/14)
 - [Network(5) - Link Layer](https://github.com/simoniful/iOSRecording/issues/20)
+- [운영체제(1) - 개요]()
 
 ## Rx
 - [4Hours 끝내기 정리](https://github.com/simoniful/iOS_Recording/issues/15)
