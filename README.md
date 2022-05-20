@@ -33,5 +33,5 @@
 - [Transforming Operators](https://github.com/simoniful/iOS_Recording/issues/21)
 - [Combining Operator](https://github.com/simoniful/iOS_Recording/issues/22)
 - [Timebased Operator](https://github.com/simoniful/iOS_Recording/issues/23)
-- [RxCocoa](https://github.com/simoniful/iOS_Recording/issues/24)
+- [Beginning RxCocoa](https://github.com/simoniful/iOS_Recording/issues/24)
 - [Intermediate RxCocoa](https://github.com/simoniful/iOS_Recording/issues/28)
