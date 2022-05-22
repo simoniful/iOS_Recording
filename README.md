@@ -35,3 +35,4 @@
 - [Timebased Operator](https://github.com/simoniful/iOS_Recording/issues/23)
 - [Beginning RxCocoa](https://github.com/simoniful/iOS_Recording/issues/24)
 - [Intermediate RxCocoa](https://github.com/simoniful/iOS_Recording/issues/28)
+- [Error Handling](https://github.com/simoniful/iOS_Recording/issues/29)
