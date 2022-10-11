@@ -13,6 +13,7 @@
 - [iOS Bundle & Package & Framework & Library & Sandbox](https://github.com/simoniful/iOSRecording/issues/10)
 
 ## Swift
+- [기초](https://github.com/simoniful/iOS_Recording/issues/35)
 - [기본 연산자]()
 
 ## CS
