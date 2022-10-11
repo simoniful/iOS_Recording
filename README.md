@@ -41,7 +41,7 @@
 - [Testing with RxTest](https://github.com/simoniful/iOS_Recording/issues/33)
 
 ## Architecture
-- []()
+- [SOLID - Single Responsability Principle](https://github.com/simoniful/iOS_Recording/issues/36)
 
 ## WWDC
 - []()
