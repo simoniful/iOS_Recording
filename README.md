@@ -16,6 +16,7 @@
 - [기초](https://github.com/simoniful/iOS_Recording/issues/35)
 - [기본 연산자](https://github.com/simoniful/iOS_Recording/issues/37)
 - [문자열과 문자](https://github.com/simoniful/iOS_Recording/issues/38)
+- [컬렉션 타입](https://github.com/simoniful/iOS_Recording/issues/39)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
