@@ -45,6 +45,7 @@
 - [Error Handling](https://github.com/simoniful/iOS_Recording/issues/29)
 - [Scheduler](https://github.com/simoniful/iOS_Recording/issues/31)
 - [Testing with RxTest](https://github.com/simoniful/iOS_Recording/issues/33)
+- [Creating Custom Reactive Extensions](https://github.com/simoniful/iOS_Recording/issues/34)
 
 ## Architecture
 - [SOLID - Single Responsability Principle](https://github.com/simoniful/iOS_Recording/issues/36)
