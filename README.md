@@ -20,6 +20,7 @@
 - [제어문](https://github.com/simoniful/iOS_Recording/issues/40)
 - [함수](https://github.com/simoniful/iOS_Recording/issues/41)
 - [클로저](https://github.com/simoniful/iOS_Recording/issues/42)
+- [열거형](https://github.com/simoniful/iOS_Recording/issues/43)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
