@@ -22,6 +22,7 @@
 - [클로저](https://github.com/simoniful/iOS_Recording/issues/42)
 - [열거형](https://github.com/simoniful/iOS_Recording/issues/43)
 - [클래스와 구조체](https://github.com/simoniful/iOS_Recording/issues/45)
+- [프로퍼티](https://github.com/simoniful/iOS_Recording/issues/46)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
