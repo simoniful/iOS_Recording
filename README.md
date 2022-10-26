@@ -24,6 +24,7 @@
 - [클래스와 구조체](https://github.com/simoniful/iOS_Recording/issues/45)
 - [프로퍼티](https://github.com/simoniful/iOS_Recording/issues/46)
 - [메서드](https://github.com/simoniful/iOS_Recording/issues/47)
+- [서브스크립트](https://github.com/simoniful/iOS_Recording/issues/48)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
