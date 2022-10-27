@@ -25,6 +25,7 @@
 - [프로퍼티](https://github.com/simoniful/iOS_Recording/issues/46)
 - [메서드](https://github.com/simoniful/iOS_Recording/issues/47)
 - [서브스크립트](https://github.com/simoniful/iOS_Recording/issues/48)
+- [상속](https://github.com/simoniful/iOS_Recording/issues/49)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
