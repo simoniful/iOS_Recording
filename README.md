@@ -28,6 +28,7 @@
 - [상속](https://github.com/simoniful/iOS_Recording/issues/49)
 - [초기화](https://github.com/simoniful/iOS_Recording/issues/50)
 - [초기화 해제](https://github.com/simoniful/iOS_Recording/issues/51)
+- [옵셔널 체이닝](https://github.com/simoniful/iOS_Recording/issues/52)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
