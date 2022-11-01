@@ -31,6 +31,7 @@
 - [옵셔널 체이닝](https://github.com/simoniful/iOS_Recording/issues/52)
 - [에러 핸들링](https://github.com/simoniful/iOS_Recording/issues/53)
 - [동시성](https://github.com/simoniful/iOS_Recording/issues/54)
+- [타입 캐스팅](https://github.com/simoniful/iOS_Recording/issues/55)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
