@@ -35,6 +35,7 @@
 - [중첩 타입](https://github.com/simoniful/iOS_Recording/issues/56)
 - [익스텐션](https://github.com/simoniful/iOS_Recording/issues/57)
 - [프로토콜](https://github.com/simoniful/iOS_Recording/issues/58)
+- [제네릭](https://github.com/simoniful/iOS_Recording/issues/59)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
