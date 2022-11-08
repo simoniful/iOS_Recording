@@ -39,6 +39,7 @@
 - [불투명 타입](https://github.com/simoniful/iOS_Recording/issues/60)
 - [ARC](https://github.com/simoniful/iOS_Recording/issues/61)
 - [메모리 안정성](https://github.com/simoniful/iOS_Recording/issues/62)
+- [접근 제어](https://github.com/simoniful/iOS_Recording/issues/63)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
