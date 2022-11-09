@@ -40,6 +40,7 @@
 - [ARC](https://github.com/simoniful/iOS_Recording/issues/61)
 - [메모리 안정성](https://github.com/simoniful/iOS_Recording/issues/62)
 - [접근 제어](https://github.com/simoniful/iOS_Recording/issues/63)
+- [고급 연산자](https://github.com/simoniful/iOS_Recording/issues/64)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
