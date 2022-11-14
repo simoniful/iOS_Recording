@@ -42,7 +42,7 @@
 - [접근 제어](https://github.com/simoniful/iOS_Recording/issues/63)
 - [고급 연산자](https://github.com/simoniful/iOS_Recording/issues/64)
 - [언어의 기준](https://github.com/simoniful/iOS_Recording/issues/65)
-- [어휘 ](https://github.com/simoniful/iOS_Recording/issues/67)
+- [어휘 구조](https://github.com/simoniful/iOS_Recording/issues/67)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
