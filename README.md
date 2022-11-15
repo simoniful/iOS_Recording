@@ -71,6 +71,7 @@
 
 ## Architecture
 - [SOLID - Single Responsability Principle](https://github.com/simoniful/iOS_Recording/issues/36)
+- [SOLID - Open-Closed Principle](https://github.com/simoniful/iOS_Recording/issues/66)
 
 ## WWDC
 - []()
