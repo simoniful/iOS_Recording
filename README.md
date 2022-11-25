@@ -46,6 +46,7 @@
 - [어휘 구조](https://github.com/simoniful/iOS_Recording/issues/67)
 - [타입](https://github.com/simoniful/iOS_Recording/issues/69)
 - [표현식](https://github.com/simoniful/iOS_Recording/issues/70)
+- [구문](https://github.com/simoniful/iOS_Recording/issues/71)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
