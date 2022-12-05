@@ -79,7 +79,7 @@
 - [SOLID - Single Responsability Principle](https://github.com/simoniful/iOS_Recording/issues/36)
 - [SOLID - Open-Closed Principle](https://github.com/simoniful/iOS_Recording/issues/66)
 - [SOLID - Liskov Substitution Principle](https://github.com/simoniful/iOS_Recording/issues/74)
-- [SOLID - Interface Separation Principle](https://github.com/simoniful/iOS_Recording/issues/75)
+- [SOLID - Interface Segregation Principle](https://github.com/simoniful/iOS_Recording/issues/75)
 
 ## WWDC
 - []()
