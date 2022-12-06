@@ -50,7 +50,7 @@
 - [선언](https://github.com/simoniful/iOS_Recording/issues/72)
 - [특성](https://github.com/simoniful/iOS_Recording/issues/73)
 - [패턴](https://github.com/simoniful/iOS_Recording/issues/76)
-- [제네릭 매개변수와 ](https://github.com/simoniful/iOS_Recording/issues/77)
+- [제네릭 매개변수와 인수](https://github.com/simoniful/iOS_Recording/issues/77)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
