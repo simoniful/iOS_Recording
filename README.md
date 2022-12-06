@@ -49,6 +49,7 @@
 - [구문](https://github.com/simoniful/iOS_Recording/issues/71)
 - [선언](https://github.com/simoniful/iOS_Recording/issues/72)
 - [특성](https://github.com/simoniful/iOS_Recording/issues/73)
+- [패턴](https://github.com/simoniful/iOS_Recording/issues/76)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
