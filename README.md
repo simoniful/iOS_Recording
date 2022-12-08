@@ -49,8 +49,8 @@
 - [구문](https://github.com/simoniful/iOS_Recording/issues/71)
 - [선언](https://github.com/simoniful/iOS_Recording/issues/72)
 - [특성](https://github.com/simoniful/iOS_Recording/issues/73)
-- [패턴](https://github.com/simoniful/iOS_Recording/issues/76)
-- [제네릭 매개변수와 인수](https://github.com/simoniful/iOS_Recording/issues/77)
+- [패턴](https://github.com/simoniful/iOS_Recording/issues/77)
+- [제네릭 매개변수와 인수](https://github.com/simoniful/iOS_Recording/issues/78)
 
 ## CS
 - [Network(1)](https://github.com/simoniful/iOSRecording/issues/11)
@@ -82,7 +82,7 @@
 - [SOLID - Open-Closed Principle](https://github.com/simoniful/iOS_Recording/issues/66)
 - [SOLID - Liskov Substitution Principle](https://github.com/simoniful/iOS_Recording/issues/74)
 - [SOLID - Interface Segregation Principle](https://github.com/simoniful/iOS_Recording/issues/75)
-- [SOLID - Dependency Inversion Principle](https://github.com/simoniful/iOS_Recording/issues/78)
+- [SOLID - Dependency Inversion Principle](https://github.com/simoniful/iOS_Recording/issues/79)
 
 ## WWDC
 - []()
