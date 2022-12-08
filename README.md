@@ -82,6 +82,7 @@
 - [SOLID - Open-Closed Principle](https://github.com/simoniful/iOS_Recording/issues/66)
 - [SOLID - Liskov Substitution Principle](https://github.com/simoniful/iOS_Recording/issues/74)
 - [SOLID - Interface Segregation Principle](https://github.com/simoniful/iOS_Recording/issues/75)
+- [SOLID - Dependency Inversion Principle](https://github.com/simoniful/iOS_Recording/issues/78)
 
 ## WWDC
 - []()
