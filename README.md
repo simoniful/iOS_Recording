@@ -12,6 +12,7 @@
 - [UIKit - CustomView 구현, View / Layout 업데이트 관련 메서드](https://github.com/simoniful/iOSRecording/issues/9)
 - [iOS Bundle & Package & Framework & Library & Sandbox](https://github.com/simoniful/iOSRecording/issues/10)
 - [Swift에서의 Interface, Abstract class 구축](https://github.com/simoniful/iOS_Recording/issues/68)
+- [Actor](https://github.com/simoniful/iOS_Recording/issues/76)
 
 ## Swift
 - [기초](https://github.com/simoniful/iOS_Recording/issues/35)
