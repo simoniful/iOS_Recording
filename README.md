@@ -87,7 +87,7 @@
 - [SOLID - Dependency Inversion Principle](https://github.com/simoniful/iOS_Recording/issues/79)
 
 ## WWDC
-- []()
-- []()
-- []()
+- [What’s new in SwiftUI]()
+- [What’s new in universal link]()
+- [Modern Swift API Design]()
 - []()
