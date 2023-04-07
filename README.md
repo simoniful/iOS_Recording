@@ -61,6 +61,9 @@
 - [Network(5) - Link Layer](https://github.com/simoniful/iOSRecording/issues/20)
 - [운영체제 주요 면접 질의 정리](https://github.com/simoniful/iOS_Recording/issues/27)
 - [운영체제(1) - 개요](https://github.com/simoniful/iOS_Recording/issues/25)
+- [Git Basic](https://github.com/simoniful/iOS_Recording/issues/81)
+- [Git Advanced](https://github.com/simoniful/iOS_Recording/issues/82)
+- [Compiler](https://github.com/simoniful/iOS_Recording/issues/83)
 
 ## Rx
 - [4Hours 끝내기 정리](https://github.com/simoniful/iOS_Recording/issues/15)
